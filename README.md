@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<details>
-  <img align="left" alt="me" src="https://eduoblys.vercel.app/api?username=eduoblys&show_icons=true&hide_border=true"/>
-</details>
-  
+<p align="center">
+  <img width="500" height="208" src="https://github.com/Sunil-Pradhan/git-cheat-sheet/blob/master/img/Git-Cheat-Sheet-Logo.png">
+</p>
