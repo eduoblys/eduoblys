@@ -1,6 +1,6 @@
 ### Hi, welcome
 
-- [x] Complete
+- [x] Home page preview
 - [ ] <a href="https://eduoblys.com">eduoblys.com</a>
 
 <p align="center">
